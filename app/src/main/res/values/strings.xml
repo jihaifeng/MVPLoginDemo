@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">MVPLoginDemo</string>
+  <string name="edit_userName">userName : </string>
+  <string name="edit_userPass">userPass : </string>
+  <string name="btn_login">Login</string>
+  <string name="btn_clear">Clear</string>
+</resources>
